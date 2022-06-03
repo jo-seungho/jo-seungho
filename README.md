@@ -1,11 +1,10 @@
 <div align=center>
-  <h2>공사중!!</h2>
 <h3> 🍀 Hi! I'm Seungho JO 🍀</h3>
   
 I'm Front-End web developer.
 
 My main focus is React, JavaScript, and HTML.
-  
+  ##
 
 <h3>🔥Skills🔥</h3>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
