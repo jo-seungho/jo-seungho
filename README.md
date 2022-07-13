@@ -3,7 +3,7 @@
   
 I'm Front-End web developer.
 
-My main focus is React, JavaScript, and HTML
+My main focus is React, JavaScript, and HTML.
   ##
 
 <h3>🔥Skills🔥</h3>
