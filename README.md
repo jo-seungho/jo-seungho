@@ -19,6 +19,7 @@ My main focus is React, JavaScript, and HTML
   💪 Exercise, 💻 Programing, 🎵 Music, 📽️ Watching Movie
   
 ##
+
   <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-seungho)](https://github.com/anuraghazra/github-readme-stats)
