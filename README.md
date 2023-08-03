@@ -1,9 +1,9 @@
 <div align=center>
 <h3> 🍀 Hi! I'm Seungho JO 🍀</h3>
   
-I'm Front-End web developer.
+I'm Web developer.
 
-My main focus is React, JavaScript, HTML, Java
+My main focus is Java, JavaScript, HTML
 
   ##
 <h3>🔥Skills🔥</h3>
